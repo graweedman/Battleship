@@ -1,0 +1,25 @@
+{
+    "configurations": [
+    {
+      "name": "MSYS2 MinGW",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/msys64/mingw64/include"
+      ],
+      "defines": [],
+      "compilerPath": "C:/msys64/mingw64/bin/g++.exe",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "gcc-x64",
+      "browse": {
+        "path": [
+          "${workspaceFolder}",
+          "C:/msys64/mingw64/include"
+        ],
+        "limitSymbolsToIncludedHeaders": true,
+        "databaseFilename": ""
+      }
+    }
+  ],
+  "version": 4
+}
